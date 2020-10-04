@@ -1,0 +1,9 @@
+body{
+    background-color: lightpink;
+    text-align:center;
+    padding:10%;
+}
+ul{
+    list-style: none;
+    /* font-family: Georgia, "Times New Roman", serif; */
+}
